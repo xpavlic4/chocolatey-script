@@ -12,3 +12,5 @@ choco install scala -y
 choco install treesizefree -y
 choco install itunes -y
 choco install awscli -y
+choco install AndroidStudio -y
+choco install android-sdk -y
